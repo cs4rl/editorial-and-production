@@ -7,6 +7,7 @@ The Citizen Science Guide for Research Libraries is developing a open peer revie
 ## Open Peer Review
 
 ![Trends in Open Peer Review: Research by Information Scientists](https://asapbio.org/wp-content/uploads/2020/06/Growth-of-OPR-journals-by-discipline-groups.png)
+
 Figure: Peiling Wang, Professor, University of Tennessee-Knoxville & Dietmar Wolfram, Professor, University of Wisconsin-Milwaukee
 
 There has been a significant increase in OA journal Open Peer Review (OPR) since 2017 (‘Trends in Open Peer Review: Research by Information Scientists’ n.d.) which is on indicator of the increase in the use of OPR.
