@@ -10,7 +10,7 @@ The Citizen Science Guide for Research Libraries is developing a open peer revie
 
 Figure: Peiling Wang, Professor, University of Tennessee-Knoxville & Dietmar Wolfram, Professor, University of Wisconsin-Milwaukee
 
-There has been a significant increase in OA journal Open Peer Review (OPR) since 2017 (‘Trends in Open Peer Review: Research by Information Scientists’ n.d.) which is on indicator of the increase in the use of OPR.
+There has been a significant increase in OA journal Open Peer Review (OPR) since 2017 (‘Trends in Open Peer Review: Research by Information Scientists’ n.d.) which is on indicator of at least the popularity of OPR.
 
 OPR is as varied or possibly even more varied as conventional peer review. For example here is a database of journal OPR policies 'Transpose'. (‘Transpose A Database of Journal Policies on Peer Review, Co-Reviewing, and Preprinting’ n.d.) Another example is 'Reimaginging Review' which catalogues innovations in OPR. (‘ReimagineReview – A Registry of Platforms and Experiments Innovating around Peer Review.’ n.d.) ASAPbio, as US non-profit preprint and peer review agency are innovators and a community hub for there open research practices. (‘#FeedbackASAP: Growing Preprint Review’ n.d.)
 
