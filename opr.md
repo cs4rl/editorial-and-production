@@ -10,7 +10,7 @@ The Citizen Science Guide for Research Libraries is developing a open peer revie
 
 Figure: Peiling Wang, Professor, University of Tennessee-Knoxville & Dietmar Wolfram, Professor, University of Wisconsin-Milwaukee
 
-There has been a significant increase in OA journal Open Peer Review (OPR) since 2017 (‘Trends in Open Peer Review: Research by Information Scientists’ n.d.) which is on indicator of at least the popularity of OPR.
+There has been a significant increase in OA journal Open Peer Review (OPR) since 2017 (‘Trends in Open Peer Review: Research by Information Scientists’ n.d.) which is an indicator of at least the popularity of OPR.
 
 The question for a guide publication is how can OPR be beneficial for such a publication that is free to use and seeks reuse and looks to be practically effective in the uptake of a working practice or tranmission of vocational knowledge for example by incorporation into a training programmes?
 
