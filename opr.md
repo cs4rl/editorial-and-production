@@ -68,18 +68,21 @@ What is OPR? In different ways OPR as it say 'open peer review' is about making 
 
 https://www.zotero.org/groups/2376718/nfdi4culture/collections/CETAIU4Y
 
-‘Community Handbook — The Turing Way’. Accessed 15 February 2022. https://the-turing-way.netlify.app/community-handbook/community-handbook.html#.
+---
 
-ASAPbio. ‘#FeedbackASAP: Growing Preprint Review’. Accessed 15 February 2022. https://asapbio.org/feedbackasap.
-
-Giridharan, Sai Srinivas Panapakkam, Guangming Luo, Pilar Rivero-Rios, Noah Steinfeld, Helene Tronchere, Amika Singla, Ezra Burstein, Daniel D Billadeau, Michael A Sutton, and Lois S Weisman. ‘Lipid Kinases VPS34 and PIKfyve Coordinate a Phosphoinositide Cascade to Regulate Retriever-Mediated Recycling on Endosomes’. Edited by Suzanne R Pfeffer. ELife 11 (18 January 2022): e69709. https://doi.org/10/gpgwfc.
-
-ASAPbio. ‘Open Post-Publication Peer Review’. Accessed 15 February 2022. https://asapbio.org/open-post-publication-peer-review.
-
-‘ReimagineReview – A Registry of Platforms and Experiments Innovating around Peer Review.’ Accessed 15 February 2022. https://reimaginereview.asapbio.org/.
-
-‘Transpose A Database of Journal Policies on Peer Review, Co-Reviewing, and Preprinting’. Accessed 15 February 2022. https://transpose-publishing.github.io/#/.
+Wolfram, Dietmar, Peiling Wang, Adam Hembree, and Hyoungjoo Park. ‘Open Peer Review: Promoting Transparency in Open Science’. Scientometrics 125, no. 2 (1 November 2020): 1033–51. https://doi.org/10/ggzzvn.
 
 ASAPbio. ‘Trends in Open Peer Review: Research by Information Scientists’. Accessed 15 February 2022. https://asapbio.org/trends-in-open-peer-review.
 
-Wolfram, Dietmar, Peiling Wang, Adam Hembree, and Hyoungjoo Park. ‘Open Peer Review: Promoting Transparency in Open Science’. Scientometrics 125, no. 2 (1 November 2020): 1033–51. https://doi.org/10/ggzzvn.
+‘Transpose A Database of Journal Policies on Peer Review, Co-Reviewing, and Preprinting’. Accessed 15 February 2022. https://transpose-publishing.github.io/#/.
+
+‘ReimagineReview – A Registry of Platforms and Experiments Innovating around Peer Review.’ Accessed 15 February 2022. https://reimaginereview.asapbio.org/.
+
+ASAPbio. ‘Open Post-Publication Peer Review’. Accessed 15 February 2022. https://asapbio.org/open-post-publication-peer-review.
+
+Giridharan, Sai Srinivas Panapakkam, Guangming Luo, Pilar Rivero-Rios, Noah Steinfeld, Helene Tronchere, Amika Singla, Ezra Burstein, Daniel D Billadeau, Michael A Sutton, and Lois S Weisman. ‘Lipid Kinases VPS34 and PIKfyve Coordinate a Phosphoinositide Cascade to Regulate Retriever-Mediated Recycling on Endosomes’. Edited by Suzanne R Pfeffer. ELife 11 (18 January 2022): e69709. https://doi.org/10/gpgwfc.
+
+ASAPbio. ‘#FeedbackASAP: Growing Preprint Review’. Accessed 15 February 2022. https://asapbio.org/feedbackasap.
+
+‘Community Handbook — The Turing Way’. Accessed 15 February 2022. https://the-turing-way.netlify.app/community-handbook/community-handbook.html#.
+
