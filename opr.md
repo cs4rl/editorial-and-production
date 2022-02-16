@@ -18,6 +18,10 @@ OPR is as varied or possibly even more varied as conventional peer review. For e
 
 What is OPR? In different ways OPR as it say 'open peer review' is about making the review process open. This can be about complete tranparency for example the publisher eLife  has the process open including the editor decision letter, (Giridharan et al. 2022) or a process can be about 'post publishing review', (‘Open Post-Publication Peer Review’ n.d.) or about community engagement for example with The Turing Way. (‘Community Handbook — The Turing Way’ n.d.) OPR has gained accendance primarily because of the reproducibility and replicability crisis in science, but its use has other applications for improving a scholarship, research, and publishing.
 
+## Open Access Guides
+
+It is worth noting that open access guides tend to be neglected in terms of properly applying open licences and using other publishing enhancements; DOIs, PIDs, reusable and interoperable formats. See the notes on this question in the following blog post. Learning to Make Collaborative Guides with Open Access. Generation R. 2021 https://doi.org/10.25815/QHPM-3N49
+
 ## OPR for the Citizen Science Guide for Research Libraries
 
 ### Our current process
