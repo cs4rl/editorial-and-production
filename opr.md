@@ -1,8 +1,8 @@
-# Open Peer Review for Open Access Guides
+# Developing an Open Peer Review for Open Access Guides
 
-The Citizen Science Guide for Research Libraries is developing a open peer review process.
+The Citizen Science Guide for Research Libraries is developing an open peer review process.
 
-> 15 February 2022
+\> 15 February 2022
 
 ## Open Peer Review
 
