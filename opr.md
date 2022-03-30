@@ -12,7 +12,7 @@ Figure: Peiling Wang, Professor, University of Tennessee-Knoxville & Dietmar Wol
 
 There has been a significant increase in OA journal Open Peer Review (OPR) since 2017 (‘Trends in Open Peer Review: Research by Information Scientists’ n.d.) which is an indicator of at least the popularity of OPR.
 
-> The question for a guide publication is how can OPR be beneficial - for a publication that is free to use, seeks reuse, and looks to be practically effective in the  uptake of a working practices in citiizen science - for example by incorporation into a training programmes?
+> The question for a guide publication is how can OPR be beneficial - for a publication that is free to use, seeks reuse, and looks to be practically effective in the  uptake of a working practices in citizen science - for example by incorporation into a training programmes?
 
 OPR is as varied or possibly even more varied as conventional peer review. For example here is a database of journal OPR policies 'Transpose'. (‘Transpose A Database of Journal Policies on Peer Review, Co-Reviewing, and Preprinting’ n.d.) Another example is 'Reimaginging Review' which catalogues innovations in OPR. (‘ReimagineReview – A Registry of Platforms and Experiments Innovating around Peer Review.’ n.d.) A useful source for OPR practice is ASAPbio a US non-profit preprint and peer review agency who are innovators and a community hub for there open research practices. (‘#FeedbackASAP: Growing Preprint Review’ n.d.)
 
