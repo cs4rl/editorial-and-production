@@ -1,6 +1,6 @@
 # Developing an Open Peer Review for Open Access Guides
 
-The Citizen Science Guide for Research Libraries is developing an open peer review process.
+The guide series from the LIBER Citizen Science working Group _Citizen Science Guide for Research Libraries_ is developing an open peer review process.
 
 \> 15 February 2022
 
