@@ -14,8 +14,8 @@ Request access to the below from Simon worthington simon.worthington@tib.eu
 
 # Questions or comments
     
- * Comment inline in Fidus Writer
- * Join Slack channel - https://join.slack.com/t/cs4rl/shared_invite/zt-11uolud6s-KCKNl6HzbCJru5ntUZE3UQ 30 days 17 Jan 22
+ * Comment inline in Fidus Writer https://write.handbuch.io/
+ * Slack 
  * Raise issues [here](https://github.com/orgs/cs4rl/projects/1) 
 
 # Section
