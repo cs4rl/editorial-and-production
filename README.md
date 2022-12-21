@@ -17,7 +17,7 @@ Request access to the systems mentioned below from Simon worthington simon.worth
 # Comments, Chat, Issues and tasks
     
  * Comment inline in Fidus Writer https://write.handbuch.io/
- * Slack (chat) - https://cs4rl.slack.com/archives/C023TLL3FCJ
+ * Slack (chat) - #editorial channel https://cs4rl.slack.com/archives/C023TLL3FCJ
  * Raise issues and tasks - [here](https://github.com/orgs/cs4rl/projects/1) 
 
 # Support
