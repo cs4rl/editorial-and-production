@@ -18,23 +18,4 @@ Request access to the below from Simon worthington simon.worthington@tib.eu
  * Join Slack channel - https://join.slack.com/t/cs4rl/shared_invite/zt-11uolud6s-KCKNl6HzbCJru5ntUZE3UQ 30 days 17 Jan 22
  * Raise issues [here](https://github.com/orgs/cs4rl/projects/1) 
 
-# Book Parts
-
-| Links require Fidus Writer access                                                                                                                                            |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Introduction**                                                                                                                                              |
-| \-                                                                                                                                                            |
-| **Subsection: Existing Infrastructures**                                                                                                                      |
-| [CS2-1 Existing Infrastructures That Can be Used to Support Citizen Science](https://write.handbuch.io/document/453)                                          |
-| [CS2-2 Repositories and CORE: Enabling Open Science Infrastructure for All](https://write.handbuch.io/document/454)                                           |
-| [CS2-3 Effective Research Data Management](https://write.handbuch.io/document/457)                                                                            |
-| [CS2-4 Social Media in Libraries and Their Use in Supporting Research](https://write.handbuch.io/document/458)                                                |
-| [CS2-5 Persistent Identifiers and Rich Metadata](https://write.handbuch.io/document/459)                                                                      |
-| [CS2-6 Project and Data Descriptions](https://write.handbuch.io/document/460)                                                                                 |
-| **Subsection: Case studies**                                                                                                                                  |
-| [CS2-7 Case Studies – Citizen Science and Infrastructure in Practice](https://write.handbuch.io/document/462)                                                 |
-| [CS2-8 Measure Together: Infrastructure Combining Environmental Citizen Science and Official Data in the Netherlands](https://write.handbuch.io/document/463) |
-| [CS2-9 Library Space Technology Network](https://write.handbuch.io/document/465)                                                                              |
-| [CS2-10 An Activity Module: Creating a Citizen Science Reader](https://write.handbuch.io/document/466)                                                        |
-| [CS2-11 Software Citation Needed — Infrastructure Remixing](https://write.handbuch.io/document/467)                                                           |
-| [CS2-12 Galleries, Libraries and Museums (GLAM): Crowdsourcing in Cultural Heritage](https://write.handbuch.io/document/468)                                  |
+# Section
