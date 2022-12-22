@@ -7,9 +7,9 @@ Request access to the systems mentioned below from Simon worthington simon.worth
 ## Please signup to the following:
 
   1. Fidus Writer editor: for all content and reviewing - https://write.handbuch.io/
-  1. Slack for chat - Channel #editorial - 
-  1. GitHub for task tracking, group work, and publishing - 
-  1. Google Drive for page plan and other docs - 
+  1. Slack for chat - Channel #editorial - https://cs4rl.slack.com/archives/C023TLL3FCJ
+  1. GitHub for task tracking, group work, and publishing - https://github.com/cs4rl/editorial-and-production/
+  1. Google Drive for page plan and other docs - https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols
   
 # Editorial style guide and about the publication
 
