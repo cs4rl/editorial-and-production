@@ -21,6 +21,7 @@
 
 #### Editing
 
+  * Note: Fidus Documents have a document name code of CS2, and CS3, etc., to represent the Guide section.
   * Revisions can be used to make snapshots: See File, Save revision
   * Ensure overall article coherence.
   * Clear up any comments and commit any Track Changes.
