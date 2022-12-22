@@ -10,6 +10,10 @@ Request access to the systems mentioned below from Simon worthington simon.worth
   1. Slack for chat - Channel #editorial - 
   1. GitHub for task tracking, group work, and publishing - 
   1. Google Drive for page plan and other docs - 
+  
+# Editorial style guide and about the publication
+
+ * [Style Guide](editorial-guide.md)
 
 # Support
 
