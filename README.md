@@ -27,6 +27,7 @@ Request access to the systems mentioned below from Simon worthington simon.worth
 
 # The workflow
 
+ * [Workflow in detail](workflow.md)
  * Make all edits in Fidus Writer as track changes or as direct edits depending on acccess rights.
  * Preview for correction by outputting as PDF other desired outputs.
 
