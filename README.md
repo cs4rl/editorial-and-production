@@ -17,7 +17,7 @@ Request access to the systems mentioned below from Simon worthington simon.worth
 
 # Support
 
- * Video on editing in Fidus Writer - TBC
+ * Video on editing in Fidus Writer - https://www.awesomescreenshot.com/video/13482363
  * Fidus Writer User Manual - https://mrchristian.github.io/guide-en/
 
  * [Google Docs folder](https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols) with information on different sections. Not including content, all content now on Fidus Writer.
