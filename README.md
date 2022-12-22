@@ -6,7 +6,7 @@ Request access to the systems mentioned below from Simon worthington simon.worth
 
 ## Please signup to the following:
 
-  1. Fidus Writer editor: for all content and reviewing - 
+  1. Fidus Writer editor: for all content and reviewing - https://write.handbuch.io/
   1. Slack for chat - Channel #editorial - 
   1. GitHub for task tracking, group work, and publishing - 
   1. Google Drive for page plan and other docs - 
