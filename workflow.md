@@ -2,6 +2,13 @@
 
 ## Overview of process
 
+  * All article editing and previewing happens in Fidus Writer
+    * Fidus Writer has Track Changes and Commenting modes. If you are an editor use your own discrestion for using Track Changes or Comments. Preferrably commiting all changes if you can.
+  * Articles can be printed or PDF preview outputted from Fidus Writer
+  * Layout of the final multi-format book is done from the Fidus Writer book area. Layouts are made with automated templates and can be made with the push of a button. Preview of PDF, ePub can be done from Fidus Writer. Website and Webpub have to be done on GitHub
+  * Publishing happens on GitHub. Fidus Writer can prublish direct to GitHub, PDFs need to be manually uploaded. 
+  * Print-on-Demand happens with the Ingram Lightningsource service. PDFs and a manually made cover need to be manually uploaded to Lightningsource.
+
 ## Section and article authoring
 
 ### Article editing
