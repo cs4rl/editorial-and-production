@@ -358,6 +358,40 @@ translations or in MOOCs. High quality open standards, metadata, and modern sema
 Book sections will be released incrementally as they are ready. Ideally the book
 will become a community owned publication with regular updates.
 
+### Design guide
+
+ - Colour palette - https://coolors.co/user/palettes/640dd5ff7ed05b000cd8aa95
+
+/* CSV */
+00517b,eeb11e,215e9e,669ad2,000000
+
+/* With # */
+#00517b, #eeb11e, #215e9e, #669ad2, #000000
+
+/* Array */
+["00517b","eeb11e","215e9e","669ad2","000000"]
+
+/* Object */
+{"Indigo dye":"00517b","Xanthous":"eeb11e","Lapis Lazuli":"215e9e","Blue Gray":"669ad2","Black":"000000"}
+
+/* Extended Array */
+[{"name":"Indigo dye","hex":"00517b","rgb":[0,81,123],"cmyk":[100,34,0,52],"hsb":[200,100,48],"hsl":[200,100,24],"lab":[33,-4,-30]},{"name":"Xanthous","hex":"eeb11e","rgb":[238,177,30],"cmyk":[0,26,87,7],"hsb":[42,87,93],"hsl":[42,86,53],"lab":[76,11,74]},{"name":"Lapis Lazuli","hex":"215e9e","rgb":[33,94,158],"cmyk":[79,41,0,38],"hsb":[211,79,62],"hsl":[211,65,37],"lab":[39,4,-40]},{"name":"Blue Gray","hex":"669ad2","rgb":[102,154,210],"cmyk":[51,27,0,18],"hsb":[211,51,82],"hsl":[211,55,61],"lab":[62,-2,-34]},{"name":"Black","hex":"000000","rgb":[0,0,0],"cmyk":[0,0,0,100],"hsb":[0,0,0],"hsl":[0,0,0],"lab":[0,0,0]}]
+
+/* XML */
+<palette>
+  <color name="Indigo dye" hex="00517b" r="0" g="81" b="123" />
+  <color name="Xanthous" hex="eeb11e" r="238" g="177" b="30" />
+  <color name="Lapis Lazuli" hex="215e9e" r="33" g="94" b="158" />
+  <color name="Blue Gray" hex="669ad2" r="102" g="154" b="210" />
+  <color name="Black" hex="000000" r="0" g="0" b="0" />
+</palette>
+
+ - Fonts 
+
+Crimson text - Headers, https://fonts.google.com/specimen/Crimson+Text?query=Crimson+text
+
+Lato - Body,  https://fonts.google.com/specimen/Lato?query=Lato
+
 ## Acknowledgements
 
 We would like to acknowledge [The Library & Community Guide to Citizen
