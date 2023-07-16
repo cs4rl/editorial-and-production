@@ -42,10 +42,10 @@ Table of Contents
   * [Roadmap](#roadmap)
   * [Editorial management / peer review / roles](#editorial-management)
   * [Notes for editors: Style guide, and contribution templates](#notes-for-editors)
-    * [Style Guide](#style-guide) 
-    * [Template Guides](#template-guides) 
+    * [Style Guide](#style-guide)
+    * [Template Guides](#template-guides)
   * [Production](#production)
-    
+
 ## Mission statement
 
 The guide is designed to be a practical and compact gateway publication for the
@@ -75,7 +75,7 @@ The content will be organised around the following four main sections and releas
 
 4.  **Guidelines:** develop guidelines for Citizen Science activities involving the library.
 
-### Glossary 
+### Glossary
 
 Start with Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/02/skos/)) terms, then fit to taxonomies, add to Wikidata, then describe. Use as a SEO primer. Here is an [Open Science](https://demo.hedgedoc.org/Dk4aKir9RyO1pi3jwr4Psw#Outline) example.
 
@@ -83,7 +83,7 @@ Start with Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/
 
 First section will be released Sept 2021, with the publication released as a first full version by the end of 2021.
 
-## Editorial management 
+## Editorial management
 
 - peer review / roles
 
@@ -176,25 +176,39 @@ We would encourage contributors to do the following:
 
 1.  Prepare the text in English. The Chicago Manual of Style 17th Edition (CMOS) is
     being used as the overall publication style. We will stay close to (CMOS) but not 100% complaint as we have many non/English native writers and stzles vary. Points to note will be:
-    1. We will use an International English as the primary audience is English as a second language in Europe as the expectation of the reader leans towards UK English. For example end wods is ise and ize, but use US License as Creative Commons use the US form of license. This also applies to en and em dashes, use spaces unlike the US with no space. Refer to The Ecnoomist style guide as that caters to a US EN audience. 
+    1. We will use an International English as the primary audience is English as a second language in Europe as the expectation of the reader leans towards UK English. For example end wods is ise and ize, but use US License as Creative Commons use the US form of license. This also applies to en and em dashes, use spaces unlike the US with no space. Refer to The Ecnoomist style guide as that caters to a US EN audience.
     3. Use the [Oxford Comma](https://cmosshoptalk.com/2020/02/11/oxford-chicago-and-the-serial-comma/). Which means the presence of a comma before and or or in a list of three or more items.  
-    4. En and em dash policy. For em dash use we'll keep with CMOS guidlines on em dash used for puntuation em dash with space before and after (USA and CMOS have no space but in Europe it is more common to have space either side. Make sure en dashes are used where needed and not hyphens. 
+    4. En and em dash policy. For em dash use we'll keep with CMOS guidlines on em dash used for puntuation em dash with space before and after (USA and CMOS have no space but in Europe it is more common to have space either side. Make sure en dashes are used where needed and not hyphens.
 
 1. Typesetting punctuation:
     1. Use no breaking hyphens in phrases like Co&#8209;creation &ndash; Word instructions https://word.tips.net/T001116_Inserting_a_Non-Breaking_Hyphen.html &ndash; HTML https://www.toptal.com/designers/htmlarrows/punctuation/non-breaking-hyphen/
 
 1. Capitalisation:
-   1. For terms like open science, open access, open data, or FAIR data, etc. Generally we will aim for lowercase words to keep the reading flow easy, follow this rule for movements, schools. https://7sage.com/admissions/lesson/capitalization/ Capitalize the names of movements and schools derived from proper nouns; lowercase those that are not. Unfortunately, there are some exceptions: “Cynic,” “Scholasticism” and “New Criticism,” for example, are capitalized when used as movements. Look a term up in Merriam-Webster if you're not sure. romanticism; Keynesian economics; cubism; Cynicism. The rule of thumb can also be applied that capitalisation is to get rid of ambiguity. So in our example 
+   1. For terms like open science, open access, open data, or FAIR data, etc. Generally we will aim for lowercase words to keep the reading flow easy, follow this rule for movements, schools. https://7sage.com/admissions/lesson/capitalization/ Capitalize the names of movements and schools derived from proper nouns; lowercase those that are not. Unfortunately, there are some exceptions: “Cynic,” “Scholasticism” and “New Criticism,” for example, are capitalized when used as movements. Look a term up in Merriam-Webster if you're not sure. romanticism; Keynesian economics; cubism; Cynicism. The rule of thumb can also be applied that capitalisation is to get rid of ambiguity. So in our example
      2. FAIR data would have acronym capitalised  
      3. Open science, open data, and open access &ndash; would all be lowercase
      4. Open source software &ndash; here we run into the 'rival camps' problem. There is the Free Software Foundation (Richard Stallman) and the Open Source (Eric Raymond) movement who disagree on ideologies. Properly the full term should be use Free and Open Source Software (FOSS) but its a mouthful. And there is more to the story. Our get out is to use the precompound adjective open-source.
      5. I will list more examples as they come up.
    1. Article titles capitalised as 'title capitalisation', running headers only first word and after :
-   2. Job or role title if mentioned next to name, yes
- 
-1. Submit the paper in a template in the Google Drive (to be supplied).
+   2. Job or role title removed.
 
-1. Use of academic titles? https://github.com/cs4rl/guide/issues/35 To be resolved. 21 Oct 2021
+## Using Fidus Writers
+
+  - Guide: https://mrchristian.github.io/guide-en/
+
+1. Images: Images can be configured to appear in text as: figures, photos, to replace tables, etc. Also figures can be set to display captions or not. Last images can be set as 100%, 75%, 50%, and 25% width. Image widths can be set later at the time of publishing.
+
+1.  Intro, author, and DOI styling. See example: https://write.handbuch.io/document/465. Intro uses the Abstract style. Author text as Normal style. DOI line is made as bold.
+
+1. Adding or converting manual added citations. Fidus Writer has a citation manager that needs to be used as this applies citation style langauge to citations - styling them and organising them. Place cursor inline where you want the citation to be inserted. In top menu select Cite - you will be able to either search databases for citation or manually add a citation. The citation will be added inline and at bottom of article. Citations get automatically styled if citation style is changed. Citations can be edited by clicking them in the bottom of the article.
+
+1.       
+
+## Article finishing
+
+1. Article images. Editors need to add article images. Articles need a featured image if possible, note its optional to have a featured image. This should be placed immediately after the article title or after the into and author credit. It depends on how the article looks in layout as to its placement. Place other images in the article to help communicate the work. If you cannot source any images then please raise a ticket and the editorial group will take on board the task.
+
+1. Use of academic titles for authors and editors? Generally remove. But if unsure consult the editorial group for support https://github.com/cs4rl/guide/issues/35  
    1. Use them if provided by author in attribution? TBC
    1. Book information: Copyright pages, authors, etc., do not use
 
@@ -203,7 +217,9 @@ We would encourage contributors to do the following:
 1.  The text should have a headline summary that briefly outlines the content of
     the section (max. 30 words).
 
-1.  For each introduction author submit a name and title and e-mail address.
+1.  For each introduction author submit a name, department and institution, and ORCID iD. But not job title. See example https://write.handbuch.io/document/465
+
+1. Article DOI line. Add as Article DOI: 10.25815/f360-s580 | You can retrieve DOIs from the article page plan Google spreadsheet. https://docs.google.com/spreadsheets/d/1cPhzMjs3otETY_jHPOa43TWs4IaGgIllmHa1SpcGsVY/edit#gid=0
 
 1.  Please divide the text into sections, with:
 
@@ -223,12 +239,9 @@ We would encourage contributors to do the following:
 1. Tables and figures. To be placed in individual files. Tables should serve a
     purpose and display cores data in a brief and structured way.
 
-1. Each Table and Figure should have a number and a brief description placed
+1. Each Table and Figure are automatically numbered by the publishing pipeline, there is no need to manually add them. A brief description placed
     below that correspond with the file. All Figures in min. 600 dpi resolution
-    or vector graphic. Please embed figures and also upload to associated Google
-    Drive folder (Google Docs have a habit or lowering resolutions.
-
-1. References: Do not list references in the text.
+    or vector graphic.
 
 1. A maximum of three core references listed at the very bottom.
 
@@ -243,13 +256,13 @@ We would encourage contributors to do the following:
     Roadmap’. LIBER, 2 July 2018.
     [](https://doi.org/10.5281/zenodo.1303002https://doi.org/10.5281/zenodo.1303002).
 
-1. List references in alphabetical order at end of text.
-
 1. For any additional details please contact the Co-Editors-in-Chief: Simon
     Worthington (<simon.worthington@tib.eu>) or Thomas Kaarsted
     (<thk@bib.sdu.dk>).
-    
-1. Author and editor profiles. ORCID ORCID iD: followed by 16 digit number and not URL as commonly used. No full stop or comma after ORCID iD or e-mail as to not interfere with both. Link to both and make links active in Gdoc. See example: Section editor Jitka Stilund Hansen, DTU Library, Technical University of Denmark, ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221) e-mail: jstha@dtu.dk    
+
+1. Author and editor profiles. ORCID ORCID iD: followed by 16 digit number and not URL as commonly used. No full stop or comma after ORCID iD or e-mail as to not interfere with both. Link to both and make links active.
+
+See example: By Jitka Stilund Hansen, DTU Library, Technical University of Denmark, (ORCID iD: [0000-0002-5888-1221](https://orcid.org/0000-0002-5888-1221)).    
 
 1. Refer to sections numbers as Section #1 or Section #2.
 
@@ -259,8 +272,8 @@ We would encourage contributors to do the following:
 
 -   The text is a maximum of 400 words, 2800 characters including spaces
     (including Tables, Figures, Photos)
-    
-    Title and headline. 
+
+    Title and headline.
 
 -   One image
 
@@ -346,7 +359,6 @@ FloraIncognita.
 
 -   Then following text
 
-
 ## Production
 
 The book is intended as a short guide and will be approximately one hundred
@@ -386,7 +398,7 @@ will become a community owned publication with regular updates.
   <color name="Black" hex="000000" r="0" g="0" b="0" />
 </palette>
 
- - Fonts 
+ - Fonts
 
 Crimson text - Headers, https://fonts.google.com/specimen/Crimson+Text?query=Crimson+text
 
@@ -434,11 +446,11 @@ Turing Way Community. The Turing Way: A Handbook for Reproducible Data Science, 
 
 **Footer**
 
-© 2021 the authors. All content licensed Creative Commons:
+© 2021-23 the authors. All content licensed Creative Commons:
 Attribution-ShareAlike 4.0 International (CC BY-SA 4.0), unless otherwise
 stated. <https://creativecommons.org/licenses/by-sa/4.0/> \| Publication:
 <https://github.com/CitSci-WG/guide>.
 
 Imprint: Responsible for the content of the domain https://github.com/CitSci-WG/guide/ - Simon Worthington (LIBER CSWG Secretary), Lausitzer Platz 10, 10997 Berlin, Germany. E-mail: simon.worthington AT tib.eu - Internet: [https://libereurope.eu/working-group/liber-citizen-science-working-group/](https://libereurope.eu/working-group/liber-citizen-science-working-group/). The respective authors are responsible for the content of their posts.
 
-Data protection: No data trackers are used on this site and no personal information is stored. Data protection notice - version 1.0, 25 Jan 2021.
+Data protection: No data trackers are used on this site and no personal information is stored. Data protection notice - version 1.1, 16 July 2023.
