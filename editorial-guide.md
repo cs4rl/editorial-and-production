@@ -81,7 +81,7 @@ Start with Simple Knowledge Organization System ([SKOS](https://www.w3.org/2004/
 
 ## Roadmap
 
-First section will be released Sept 2021, with the publication released as a first full version by the end of 2021.
+First section will be released Sept 2021, with the publication released as a first full version by the end of 2023.
 
 ## Editorial management
 
@@ -196,15 +196,31 @@ We would encourage contributors to do the following:
 
   - Guide: https://mrchristian.github.io/guide-en/
 
+1. Note: Fidus Writer is designed as a semantic editors, for document editing and layout this means that there are some restrictions on editing like not being able to select fonts - instead style in terms of fonts, citation styles, etc., are applied on output. See the Book area of the site to preview content in final outputs such as PDF, eBook, Web, WebBook, etc.
+
 1. Images: Images can be configured to appear in text as: figures, photos, to replace tables, etc. Also figures can be set to display captions or not. Last images can be set as 100%, 75%, 50%, and 25% width. Image widths can be set later at the time of publishing.
 
 1.  Intro, author, and DOI styling. See example: https://write.handbuch.io/document/465. Intro uses the Abstract style. Author text as Normal style. DOI line is made as bold.
 
 1. Adding or converting manual added citations. Fidus Writer has a citation manager that needs to be used as this applies citation style langauge to citations - styling them and organising them. Place cursor inline where you want the citation to be inserted. In top menu select Cite - you will be able to either search databases for citation or manually add a citation. The citation will be added inline and at bottom of article. Citations get automatically styled if citation style is changed. Citations can be edited by clicking them in the bottom of the article.
 
-1.       
+1. Inserting footnotes. Use * tool from format toolbar at top of document.
+
+1. Tables. Tables can be added and edited from the format toolbar and via the three dot edit icon inline. Note: Currently in the CS Guide publications tables are exclusively used to style the info boxes. See information in the Article finishing section.
+
+1. Spelling and grammar check: A spellchecker is available from the Tools menu. Once spelling and grammar checker has been loaded - right click on marked items to see correction suggestions. To remove marks use the menu item: Tools > Spelling and Grammar > Remove items.
+
+1. Links: URL links can be added and edited. Do not use the internal links function as this does not work for all outputs.
+
+1. Save revisions: You can make snapshot saved revisions - for example to save a copy prior to editing reviews. These revisions need to be loaded back into the system as new documents which is a bit cumbersome. Contact support to revert to a revision.
+
+1. Sharing articles: to give others access to documents you need to share the document with a specific user. See the file menu for sharing options.
+
+1. Track changes: There is full track changes functionality if needed. See the top level menu item in documents.
 
 ## Article finishing
+
+1. Processing review edits: Save a names revision before processing edits so that we have a copy of the reviews if they have been added as comments or track changes.
 
 1. Article images. Editors need to add article images. Articles need a featured image if possible, note its optional to have a featured image. This should be placed immediately after the article title or after the into and author credit. It depends on how the article looks in layout as to its placement. Place other images in the article to help communicate the work. If you cannot source any images then please raise a ticket and the editorial group will take on board the task.
 
@@ -221,7 +237,9 @@ We would encourage contributors to do the following:
 
 1. Article DOI line. Add as Article DOI: 10.25815/f360-s580 | You can retrieve DOIs from the article page plan Google spreadsheet. https://docs.google.com/spreadsheets/d/1cPhzMjs3otETY_jHPOa43TWs4IaGgIllmHa1SpcGsVY/edit#gid=0
 
-1.  Please divide the text into sections, with:
+1. Article **Info Boxes and Case Studies** formatting: Currently this is a bit of a work around as applying an inline style is not possible in other ways. To make an info box first create a table with only one cell, then paste content into the cell and format as usual. The effect of using the table is that it puts a blue background behind and around the text.
+
+1.  Please divide the text into sections, with the following. Note: There is a Header hierarchy view on the left of Documents accessible via the 'scroll' icon.:
 
     1.  **Headings H2,**
 
