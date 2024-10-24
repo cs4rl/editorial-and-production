@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>CS Guide: Handbook</title>
+    <link type="text/css" rel="stylesheet" href="css/book.css" />
+    <style>
+      a.fn {
+        -adapt-template: url(data:application/xml,%3Chtml%20xmlns=%22http://www.w3.org/1999/xhtml%22%20xmlns:s=%22http://www.pyroxy.com/ns/shadow%22%3E%3Chead%3E%3Cstyle%3E.footnote-content%7Bfloat:footnote%7D%3C/style%3E%3C/head%3E%3Cbody%3E%3Cs:template%20id=%22footnote%22%3E%3Cs:content/%3E%3Cs:include%20class=%22footnote-content%22/%3E%3C/s:template%3E%3C/body%3E%3C/html%3E#footnote);
+        text-decoration: none;
+        color: inherit;
+        vertical-align: baseline;
+        font-size: 70%;
+        position: relative;
+        top: -0.3em;
+      }
+      body {
+        background-color: white;
+      }
+      section[role=doc-footnote] .footnote-counter:after {
+        content: ". ";
+      }
+      section.fnlist {
+        display: none;
+      }
+      section:footnote-content {
+        display: block;
+        font-style: normal;
+        font-weight: normal;
+        text-decoration: none;
+      }
+      .table-of-contents a {
+        display: inline-flex;
+        width: 100%;
+        text-decoration: none;
+        color: currentColor;
+        break-inside: avoid;
+        align-items: baseline;
+      }
+      .table-of-contents a::before {
+        margin-left: 1px;
+        margin-right: 1px;
+        border-bottom: solid 1px lightgray;
+        content: "";
+        order: 1;
+        flex: auto;
+      }
+      .table-of-contents a::after {
+        text-align: right;
+        content: target-counter(attr(href, url), page);
+        align-self: flex-end;
+        flex: none;
+        order: 2;
+      }
+      @page {
+        size: A4;
+        @top-center {
+          content: env(doc-title);
+        }
+        @bottom-center {
+          content: counter(page);
+        }
+      }
+      @page :first {
+        @bottom-center {
+          content: normal;
+        }
+        @top-center {
+          content: normal;
+        }
+      }
+      figure img {
+        max-width: 100%;
+      }
+      .article-title {
+        page-break-before: right;
+      }
+      h1.part {
+        page-break-before: right;
+      }
+      .copyrightpage {
+        page-break-before: left;
+      }
+      .tocpage {
+        page-break-before: right;
+      }
+      .booktitle {
+        text-align: center;
+      }
+    </style>
+    <link type="text/css" rel="stylesheet" href="css/report001a.css" />
+  </head>
+  <body class="user-contents">
+    <div class="titlepage frontmatter">
+      <h1 class="booktitle">CS Guide: Handbook</h1>
+      <h3 class="bookauthor">by Simojn Worthington; Stefan Wiederkehr</h3>
+    </div>
+    <div class="copyrightpage frontmatter">
+      <p>Published by: LIBER CSWG</p>
+      <p>Last updated: 2024-10-24</p>
+      <p>Created: 2024-10-24</p>
+      <p>Language: English (United Kingdom)</p>
+      <p>Created by: Editorial Team</p>
+    </div>
+    <div class="tocpage frontmatter">
+      <nav role="doc-toc">
+        <ol>
+          <li>
+            <a href="#_1_0">
+              Introduction: Editorial and Publishing
+            </a>
+            <ol>
+              <li>
+                <a href="#H2874868">
+                  Please signup to the following:
+                </a>
+              </li>
+              <li>
+                <a href="#H9786124">
+                  Editorial style guide and about the publication
+                </a>
+              </li>
+              <li>
+                <a href="#H475315">
+                  Support
+                </a>
+              </li>
+              <li>
+                <a href="#H777286">
+                  The workflow
+                </a>
+              </li>
+              <li>
+                <a href="#H9249407">
+                  Comments, Chat, Issues and tasks
+                </a>
+              </li>
+            </ol>
+          </li>
+        </ol>
+      </nav>
+    </div>
+    <div class="article-part article-title" id="_1_0">Introduction: Editorial and Publishing</div>
+    <div class="article-part article-richtext article-body">
+      <p>The instructions below are intended for editors, reviewers, and contributors.</p>
+      <p>Request access to the systems mentioned below from Simon worthington <a href="mailto:simon.worthington@tib.eu">simon.worthington@tib.eu</a> or on Slack.</p>
+      <h2 id="H2874868">Please signup to the following:</h2>
+      <ol id="L16629941">
+        <li>
+          <p>Fidus Writer editor: for all content and reviewing - <a href="https://write.handbuch.io/">https://write.handbuch.io/</a></p>
+        </li>
+        <li>
+          <p>Slack for chat - Channel #editorial - <a href="https://cs4rl.slack.com/archives/C023TLL3FCJ">https://cs4rl.slack.com/archives/C023TLL3FCJ</a></p>
+        </li>
+        <li>
+          <p>GitHub for task tracking, group work, and publishing - <a href="https://github.com/cs4rl/editorial-and-production/">https://github.com/cs4rl/editorial-and-production/</a></p>
+        </li>
+        <li>
+          <p>Google Drive for page plan and other docs - <a href="https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols">https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols</a></p>
+        </li>
+      </ol>
+      <h1 id="H9786124">Editorial style guide and about the publication</h1>
+      <ul id="L47619641">
+        <li>
+          <p><a href="https://github.com/cs4rl/editorial-and-production/blob/main/editorial-guide.md">Style Guide</a></p>
+        </li>
+      </ul>
+      <h1 id="H475315">Support</h1>
+      <ul id="L3539281">
+        <li>
+          <p>Video on editing in Fidus Writer - <a href="https://www.awesomescreenshot.com/video/13482363?key=ae5ac9f3a5d5158298e9628760750394">video link</a></p>
+        </li>
+        <li>
+          <p>Fidus Writer User Manual - <a href="https://mrchristian.github.io/guide-en/">https://mrchristian.github.io/guide-en/</a></p>
+        </li>
+        <li>
+          <p><a href="https://drive.google.com/drive/folders/13L3I9Xh4JnJ2qZhKNkd2kvwIPT9XDols">Google Docs folder</a> with information on different sections. Not including content, all content now on Fidus Writer.</p>
+        </li>
+        <li>
+          <p><a href="https://docs.google.com/spreadsheets/d/1cPhzMjs3otETY_jHPOa43TWs4IaGgIllmHa1SpcGsVY/edit#gid=0">Page plan on Google docs</a></p>
+        </li>
+        <li>
+          <p>Access book files for editing on Fidus Writer <a href="https://write.handbuch.io/">as track changes</a></p>
+        </li>
+        <li>
+          <p>Access book and output as PDF etc., on <a href="https://write.handbuch.io/">Fidus Writer</a></p>
+        </li>
+      </ul>
+      <h1 id="H777286">The workflow</h1>
+      <ul id="L53296841">
+        <li>
+          <p><a href="https://github.com/cs4rl/editorial-and-production/blob/main/workflow.md">Workflow in detail</a></p>
+        </li>
+        <li>
+          <p>Make all edits in Fidus Writer as track changes or as direct edits depending on acccess rights.</p>
+        </li>
+        <li>
+          <p>Preview for correction by outputting as PDF other desired outputs.</p>
+        </li>
+      </ul>
+      <h1 id="H9249407">Comments, Chat, Issues and tasks</h1>
+      <ul id="L90961991">
+        <li>
+          <p>Comment inline in Fidus Writer <a href="https://write.handbuch.io/">https://write.handbuch.io/</a></p>
+        </li>
+        <li>
+          <p>Slack (chat) - #editorial channel <a href="https://cs4rl.slack.com/archives/C023TLL3FCJ">https://cs4rl.slack.com/archives/C023TLL3FCJ</a></p>
+        </li>
+        <li>
+          <p>Raise issues and tasks - <a href="https://github.com/orgs/cs4rl/projects/1">here</a></p>
+        </li>
+      </ul>
+    </div>
+    <section class="fnlist" role="doc-footnotes"></section>
+  </body>
+</html>
